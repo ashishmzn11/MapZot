@@ -79,7 +79,7 @@ export default function Step9BPriorities() {
   );
 
  return (
-  <div className="bg-gray-100 min-h-screen flex justify-center pt-10 px-3">
+  <div className=" min-h-screen flex justify-center pt-10 px-3">
     <div className="w-full max-w-md p-6 rounded-xl">
 
       <form onSubmit={(e) => { e.preventDefault(); handleSave(); }}>

@@ -107,7 +107,7 @@ export default function Step9EPriorities() {
   );
 
   return (
-    <div className="bg-gray-100 min-h-screen flex justify-center items-start pt-10 px-3">
+    <div className=" min-h-screen flex justify-center items-start pt-10 px-3">
       <div className="w-full max-w-md rounded-xl p-6">
         <h5 className="text-base font-semibold mb-2">
           9 → Select top priorities for your team?*

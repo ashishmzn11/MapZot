@@ -68,7 +68,7 @@ export default function Step5Role() {
   };
 
   return (
-    <div className="bg-gray-100 min-h-screen flex items-center justify-center p-3">
+    <div className=" min-h-screen flex items-center justify-center p-3">
       <div className="w-full max-w-md rounded-xl p-4 mt-5">
 
         <form onSubmit={handleSubmit}>

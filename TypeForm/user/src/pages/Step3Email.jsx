@@ -21,7 +21,7 @@ export default function Step3Email() {
   };
 
   return (
-    <div className="bg-gray-100 min-h-screen flex items-center justify-center px-4">
+    <div className=" min-h-screen flex items-center justify-center px-4">
       <div className="w-full max-w-md rounded-xl p-6">
 
         <h5 className="text-lg font-semibold mb-2">

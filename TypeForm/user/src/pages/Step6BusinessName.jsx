@@ -26,7 +26,7 @@ export default function Step6BusinessName() {
   };
 
   return (
-    <div className="bg-gray-100 min-h-screen flex items-center justify-center p-3">
+    <div className=" min-h-screen flex items-center justify-center p-3">
       <div className="w-full max-w-md rounded-xl p-6 ">
 
         {/* Title */}

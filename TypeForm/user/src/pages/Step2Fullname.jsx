@@ -26,7 +26,7 @@ export default function Step2Fullname() {
   };
 
   return (
-    <div className="bg-gray-100 min-h-screen flex items-center justify-center px-4">
+    <div className=" min-h-screen flex items-center justify-center px-4">
       <div className="w-full max-w-md  rounded-xl p-6">
 
         <p className="text-gray-500 text-sm">
